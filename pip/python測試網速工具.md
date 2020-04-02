@@ -9,7 +9,7 @@
 ```shell
 [python@localhost python]$ pip3.6 install speedtest-cli
 Collecting speedtest-cli
-  Downloading https://files.pythonhosted.org/packages/c4/44/dfebd38c5fb35aae0a7279e2a3ffe33ca65edb449a586b93addc8d409a71/speedtest_cli-2.1.2-py2.py3-none-any.whl
+  Downloading https://files.pythonhosted.org/packages/c4/44/dfebd31/speedtest_cli-2.1.2-py2.py3-none-any.whl
 Installing collected packages: speedtest-cli
 Successfully installed speedtest-cli-2.1.2
 ```
@@ -84,7 +84,7 @@ Selecting best server based on ping...
 Hosted by  [47.49 km]: 2443.728 ms
 Testing download speed................................................................................
 Download: 1.99 Mbit/s
-Testing upload speed......................................................................................................
+Testing upload speed.......................................................................
 Upload: 2.40 Mbit/s
 ```
 
@@ -99,8 +99,7 @@ Selecting best server based on ping...
 Hosted by  [47.49 km]: 2418.531 ms
 Testing download speed................................................................................
 Download: 1.22 Mbit/s
-Testing upload speed......................................................................................................
-Upload: 2.80 Mbit/s
+Testing upload speed...........................................................................
 
 ```
 
